@@ -5,7 +5,7 @@ import java.awt.event.*;
 import java.util.Random;
 import javax.swing.*;
 /**
- * Name: Sepehr Rajabian
+ * Name: Sep
  * Dae: June 18, 2022
  * Title: GameFrame
  * Description: This program runs a speed snake game which is based on snake.
